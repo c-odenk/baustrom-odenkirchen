@@ -23,7 +23,6 @@ Onlineplattform zum Mieten von (Not)Stromversorgung für Bauvorhaben und Veranst
 Es finden sich insgesamt 3 "Call-to-action" Button über die man zum digitalen Mietformular weitergeleitet wird.
 <br>
 <br>
-<br>
 
 ### Screenshot 2 - Mietformular für Notstromversorgung:
 Das digitale Mietformular besitzt eine lineare Struktur mit „Weiter“ bzw. „Zurück“ Button. Mit diesen werden Kunden Schrittweise durch das 3-Seitige Formular geführt, bis sie im letzten Schritt ein positives Feedback über das erfolgreiche Versenden der Mietanfrage erhalten. Mit einem Klick auf den Link „Zurück“ werden die Kunden wieder zur Landing Page navigiert.
