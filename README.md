@@ -14,8 +14,7 @@ Onlineplattform zum Mieten von Stromversorgung für Bauvorhaben und Veranstaltun
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-
-# IN PROGRESS !!
+<br>
 
 ### Screenshot 1 - Landingpage:
 ![Screenshot - Landing Page](https://github.com/user-attachments/assets/5632dc00-d7c6-47d5-bc96-c45ac0173a5f)
@@ -51,4 +50,4 @@ Das moderne Backend wird der Mittelpunkt der Webapplikation und die Basis für e
 ![Screenshot - Dashboard Map](https://github.com/user-attachments/assets/a27f11b3-67f8-419d-ac68-3bf7eaaf13dd)
 
 <br>
-** Es handelt sich hierbei um ein langfristiges Projekt für unseren Familienbetrieb, an dem ich nebenbei arbeite. Neue Features werden Schrittweise entwickelt und ausgeliefert!
+** Es handelt sich hierbei um ein langfristiges Projekt, an dem ich nebenbei arbeite. Neue Features werden kontinuierlich entwickelt und ausgeliefert!
