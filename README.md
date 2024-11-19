@@ -3,7 +3,7 @@
 <br>
 
 
-Onlineplattform zum Mieten von Stromversorgung für Bauvorhaben und Veranstaltungen.
+Onlineplattform zum Mieten von (Not)Stromversorgung für Bauvorhaben und Veranstaltungen.
 <br>
 <br>
 <br>
@@ -26,16 +26,18 @@ Es finden sich insgesamt 3 "Call-to-action" Button über die man zum digitalen M
 <br>
 
 ### Screenshot 2 - Mietformular für Notstromversorgung:
-Das digitale Mietformular besitzt eine lineare Struktur mit „Weiter“ bzw. „Zurück“ Button. Mit diesen werden die Kunden Schrittweise durch das 3-Seitige Formular geführt bis sie im letzten Schritt ein positives Feedback über das erfolgreiche Versenden der Mietanfrage erhalten. Mit einem Klick auf den Link „Zurück“ werden die Kunden wieder zur Landing Page navigiert.
+Das digitale Mietformular besitzt eine lineare Struktur mit „Weiter“ bzw. „Zurück“ Button. Mit diesen werden Kunden Schrittweise durch das 3-Seitige Formular geführt, bis sie im letzten Schritt ein positives Feedback über das erfolgreiche Versenden der Mietanfrage erhalten. Mit einem Klick auf den Link „Zurück“ werden die Kunden wieder zur Landing Page navigiert.
 <br>
 
 ![Screenshot - Mietanfrage](https://github.com/user-attachments/assets/31345311-0b8b-4ec5-a4a4-f54e6fd1bf62)
 <br>
 <br>
+Nachdem ein Kunde eine Mietanfrage versendet hat, werden die Mitarbeiter per E-Mail über die offene Mietanfrage benachrichtigt. Diese kann im Backend der Webanwendung bearbeitet werden.
+<br>
 <br>
 
 ### Screenshot 3 - Loginpage:
-Mitarbeiter können sich mit ihren Zugangsdaten auf der Loginpage anmelden und erhalten nach erfolgreicher Eingabe Zugang zum Backend der Webapplikation.
+Mitarbeiter können sich mit ihren Zugangsdaten auf der Loginpage anmelden und erhalten nach erfolgreicher Eingabe Zugang zum Backend der Webanwendung.
 <br>
 
 ![Screenshot - Login View](https://github.com/user-attachments/assets/21294028-c61c-4656-ab59-18575b887a9d)
