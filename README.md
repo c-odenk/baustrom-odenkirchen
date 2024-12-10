@@ -43,7 +43,6 @@ Mitarbeiter können sich mit ihren Zugangsdaten auf der Loginpage anmelden und e
 ![Screenshot - Login View](https://github.com/user-attachments/assets/21294028-c61c-4656-ab59-18575b887a9d)
 <br>
 <br>
-<br>
 
 ### Screenshot 4 - Karte mit den aktuell laufenden Mieten:
 Das moderne Backend, wird der Mittelpunkt der Web-Anwendung und die Basis für eine Vielzahl digitaler Prozesse, die den Geschäftbetrieb optimieren sollen. Eines der ersten Feature ist eine Karte, auf der alle aktuell laufenden Mieten beobachtet werden können.
