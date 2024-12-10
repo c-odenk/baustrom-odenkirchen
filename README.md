@@ -15,6 +15,9 @@ Im Rahmen der Vorlesung "Web Usability" habe ich als Semesterprojekt eine Web-An
 <br>
 
 ### Screenshot 1 - Landingpage:
+Die Landingpage beinhaltet alle wesentlichen Informationen zum Unternehmen sowie zum Thema (Not)Stromversorgung. Ein besonderer Fokus liegt auf den Referenzen des Unternehmens sowie dem Angebot.
+<br>
+<br>
 ![Screenshot - Landing Page](https://github.com/user-attachments/assets/5632dc00-d7c6-47d5-bc96-c45ac0173a5f)
 <br>
 <br>
