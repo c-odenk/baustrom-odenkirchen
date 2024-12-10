@@ -2,10 +2,8 @@
 
 <br>
 
+Im Rahmen der Vorlesung "Web Usability" habe ich als Semesterprojekt eine Web-Anwendung entwickelt, durch die der Mietprozess für Baustromverteiler und Stromaggregate digitalisiert werden soll.
 
-Onlineplattform zum Mieten von (Not)Stromversorgung für Bauvorhaben und Veranstaltungen.
-<br>
-<br>
 <br>
 
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
