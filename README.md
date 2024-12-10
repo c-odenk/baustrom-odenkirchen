@@ -32,12 +32,12 @@ Das digitale Mietformular besitzt eine lineare Struktur, bei dem Kunden durch "W
 ![Screenshot - Mietanfrage](https://github.com/user-attachments/assets/31345311-0b8b-4ec5-a4a4-f54e6fd1bf62)
 <br>
 <br>
-Nachdem ein Kunde eine Mietanfrage versendet hat, werden die Mitarbeiter per E-Mail über die offene Mietanfrage informiert. Diese kann im Backend der Webanwendung bearbeitet werden.
+Nachdem ein Kunde eine Mietanfrage versendet hat, werden die Mitarbeiter per E-Mail über die offene Mietanfrage informiert. Diese kann im Backend der Web-Anwendung bearbeitet werden.
 <br>
 <br>
 
 ### Screenshot 3 - Loginpage:
-Mitarbeiter können sich mit ihren Zugangsdaten auf der Loginpage anmelden und erhalten nach erfolgreicher Eingabe, Zugang zum Backend der Webanwendung.
+Mitarbeiter können sich mit ihren Zugangsdaten auf der Loginpage anmelden und erhalten nach erfolgreicher Eingabe, Zugang zum Backend der Web-Anwendung.
 <br>
 <br>
 ![Screenshot - Login View](https://github.com/user-attachments/assets/21294028-c61c-4656-ab59-18575b887a9d)
@@ -46,7 +46,7 @@ Mitarbeiter können sich mit ihren Zugangsdaten auf der Loginpage anmelden und e
 <br>
 
 ### Screenshot 4 - Karte mit den aktuell laufenden Mieten:
-Das moderne Backend, wird der Mittelpunkt der Webanwendung und die Basis für eine Vielzahl digitaler Prozesse, die den Geschäftbetrieb optimieren sollen. Eines der ersten Feature ist eine Karte, auf der alle aktuell laufenden Mieten beobachtet werden können.
+Das moderne Backend, wird der Mittelpunkt der Web-Anwendung und die Basis für eine Vielzahl digitaler Prozesse, die den Geschäftbetrieb optimieren sollen. Eines der ersten Feature ist eine Karte, auf der alle aktuell laufenden Mieten beobachtet werden können.
 <br>
 <br>
 Hier werden u.a. Informationen zum Mieter, dem Mietobjekt, der Mietdauer und ähnlichem bereitgestellt.  
