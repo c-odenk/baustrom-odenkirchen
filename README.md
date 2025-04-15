@@ -1,10 +1,13 @@
-# Baustrom Odenkirchen | In 3 einfachen Schritten zur Stromversorgung!
+# ⚡ Baustrom Odenkirchen – In 3 einfachen Schritten zur Stromversorgung
 
+Im Rahmen der Vorlesung Web Usability entstand diese Web-Anwendung als Semesterprojekt. Ziel war es, den Mietprozess für Baustromverteiler und Stromaggregate zu digitalisieren und dadurch die Kommunikation zwischen Kund:innen und Unternehmen zu vereinfachen.
+
+🛠️ Dieses Projekt wird kontinuierlich weiterentwickelt. Der Fokus liegt zunehmend auf der Integration moderner KI-Workflows zur Automatisierung interner Prozesse.
+<br>
 <br>
 
-Im Rahmen der Vorlesung "Web Usability" habe ich als Semesterprojekt eine Web-Anwendung entwickelt, durch die der Mietprozess für Baustromverteiler und Stromaggregate digitalisiert werden soll.
-
-<br>
+## 🧱 Projektübersicht
+Die Anwendung ist in Vue.js umgesetzt, das Backend basiert auf Node.js. Neben einer modernen Landingpage bietet die Anwendung ein mehrstufiges Mietformular, ein Login-System sowie ein Backend mit Mietübersicht und Kartenintegration.
 
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -14,19 +17,16 @@ Im Rahmen der Vorlesung "Web Usability" habe ich als Semesterprojekt eine Web-An
 
 <br>
 
-### Screenshot 1 - Landingpage:
-Die Landingpage beinhaltet alle wesentlichen Informationen zum Unternehmen sowie zum Thema (Not)Stromversorgung. Ein besonderer Fokus liegt auf den Referenzen des Unternehmens sowie dem Angebot.
+### Screenshot 1 - 🔹 Landingpage
+Die Startseite vermittelt alle relevanten Informationen zu Unternehmen, Leistungen und Referenzen. Mehrere Call-to-Action-Buttons führen direkt zum digitalen Mietformular.
 <br>
 <br>
 ![Screenshot - Landing Page](https://github.com/user-attachments/assets/5632dc00-d7c6-47d5-bc96-c45ac0173a5f)
 <br>
 <br>
-Es finden sich insgesamt 3 "Call-to-action" Button über die man zum digitalen Mietformular weitergeleitet wird.
-<br>
-<br>
 
-### Screenshot 2 - Mietformular für Notstromversorgung:
-Das digitale Mietformular besitzt eine lineare Struktur, bei dem Kunden durch "Weiter" bzw. "Zurück" Button, Schrittweise durch das 3-Seite Formular geführt werden, bis sie im letzten Schritt ein positrives Feedback über das erfolgreiche Versenden der Mietanfrage erhalten. Mit einem Klick auf den Button "Zurück" werden die Kunden wieder zur Landingpage navigiert.
+### Screenshot 2 - 📝 Mietformular für Notstromversorgung
+Das Formular ist in drei Schritte unterteilt und führt Nutzer:innen intuitiv durch den Mietprozess. Nach dem Absenden erhalten Mitarbeitende automatisch eine E-Mail-Benachrichtigung und können die Mietanfrage im Backend einsehen.
 <br>
 <br>
 ![Screenshot - Mietanfrage](https://github.com/user-attachments/assets/31345311-0b8b-4ec5-a4a4-f54e6fd1bf62)
@@ -36,16 +36,16 @@ Nachdem ein Kunde eine Mietanfrage versendet hat, werden die Mitarbeiter per E-M
 <br>
 <br>
 
-### Screenshot 3 - Loginpage:
-Mitarbeiter können sich mit ihren Zugangsdaten auf der Loginpage anmelden und erhalten nach erfolgreicher Eingabe, Zugang zum Backend der Web-Anwendung.
+### Screenshot 3 - 🔐 Login-Bereich für Mitarbeitende
+Über die Loginmaske erhalten autorisierte Mitarbeitende Zugriff auf das interne System.
 <br>
 <br>
 ![Screenshot - Login View](https://github.com/user-attachments/assets/21294028-c61c-4656-ab59-18575b887a9d)
 <br>
 <br>
 
-### Screenshot 4 - Karte mit den aktuell laufenden Mieten:
-Das moderne Backend, wird der Mittelpunkt der Web-Anwendung und die Basis für eine Vielzahl digitaler Prozesse, die den Geschäftbetrieb optimieren sollen. Eines der ersten Feature ist eine Karte, auf der alle aktuell laufenden Mieten beobachtet werden können.
+### Screenshot 4 - 🗺️ Mietübersicht mit Kartenintegration
+Im Backend werden alle laufenden Mieten auf einer Karte dargestellt – inklusive Details zu Mietern, Mietdauer und Mietobjekten. Dieses Feature bildet die Grundlage für die weitere Digitalisierung betrieblicher Abläufe.
 <br>
 <br>
 Hier werden u.a. Informationen zum Mieter, dem Mietobjekt, der Mietdauer und ähnlichem bereitgestellt.  
@@ -53,4 +53,4 @@ Hier werden u.a. Informationen zum Mieter, dem Mietobjekt, der Mietdauer und äh
 ![Screenshot - Dashboard Map](https://github.com/user-attachments/assets/a27f11b3-67f8-419d-ac68-3bf7eaaf13dd)
 
 <br>
-** Es handelt sich hierbei um ein langfristiges Projekt, an dem ich nebenbei arbeite. Neue Features werden kontinuierlich entwickelt und ausgeliefert! Ein starker Fokus wird auf dem Einsatz autonomer KI Agenten liegen.
+** Es handelt sich hierbei um ein langfristiges Projekt, an dem ich nebenbei arbeite. Neue Features werden kontinuierlich entwickelt und ausgeliefert!
